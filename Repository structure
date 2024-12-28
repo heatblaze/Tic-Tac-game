@@ -1,0 +1,11 @@
+TicTacToe/
+├── src/                        # Java source code files
+│   ├── Main.java
+│   ├── TicTacToe.java
+│   └── UtilityClasses.java      # Helper classes, if any
+├── screenshots/                # Screenshots of the game
+│   ├── game_start.png
+│   ├── game_in_progress.png
+│   └── player_vs_player.png
+├── README.md                   # Documentation
+
