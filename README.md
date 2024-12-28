@@ -1,23 +1,23 @@
-# Tic Tac Toe Game
+# Tic Tac Toe (Player vs Player)
 
-A classic **Tic Tac Toe** game implemented in Java with a graphical user interface (GUI). The project includes Player vs Player (PVP).
-
+A simple and fun **Tic Tac Toe** game implemented in Java with a graphical user interface (GUI). This version allows two players to compete against each other on a 3x3 grid.
 
 ---
 
 ## Features
-### **Version 1: Player vs Player**
-- Play against another human in a fun, interactive game.
-- Clean and responsive GUI for a smooth gameplay experience.
-
-
+- **Player vs Player Mode**:
+  - Two players take turns placing their markers (X or O).
+  - Highlights the current player's turn.
+  - Displays the winner or declares a tie when the game ends.
+- **User-Friendly GUI**:
+  - Clean and intuitive interface designed using **Java Swing**.
+  - Easy-to-read game board with large markers.
 
 ---
 
 ## Technologies Used
 - **Programming Language:** Java
 - **GUI Framework:** Swing
-  
 
 ---
 
@@ -31,4 +31,4 @@ To run this project, you need:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/heatblaze/TicTacToe.git
+   git clone https://github.com/heatblaze/TicTacToe-PVP.git
